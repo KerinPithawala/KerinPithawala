@@ -12,3 +12,4 @@
 - ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
 
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=KerveyFelix&count_private=true&hide=stars&show_icons=true&theme=dracula)
