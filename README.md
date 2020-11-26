@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Kerveyfelix/Kerveyfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my full stack web-development skills and competitive programming. 
 - 🌱 I’m currently learning flask, using RESTful API, Data Structures and Algorithms.
@@ -13,6 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/kerinpithawala/) and [Twitter] (https://twitter.com/Kerin48961515)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
--->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
