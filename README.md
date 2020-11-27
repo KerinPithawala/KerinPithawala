@@ -10,6 +10,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kerinpithawala/) and [Twitter](https://twitter.com/Kerin48961515)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
+             ![My github stats](https://github-readme-stats.vercel.app/api?username=KerveyFelix&count_private=true&hide=stars&show_icons=true&theme=dracula)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=KerveyFelix&count_private=true&hide=stars&show_icons=true&theme=dracula)
