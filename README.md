@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on building my full stack web-development skills and competitive programming. 
-- 🌱 I’m currently learning flask, using RESTful API, Data Structures and Algorithms.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on making web applications.
 - 🤔 I’m looking for help with deploy website and backend development.
 - 💬 Ask me about books, best resources for learning Computer Science, research roadmap.
