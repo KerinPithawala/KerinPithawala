@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building my full stack web-development skills and competitive programming. 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on making web applications.
-- 🤔 I’m looking for help with deploy website and backend development.
+- 🤔 I’m looking for help with backend development.
 - 💬 Ask me about books, best resources for learning Computer Science, research roadmap.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kerinpithawala/) and [Twitter](https://twitter.com/Kerin48961515)
 - 😄 Pronouns: She/Her/Hers
