@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on building my full stack web-development skills and competitive programming. 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently working on building my full stack web-development skills. 
+- 🌱 I’m currently learning about Cloud Computing.
 - 👯 I’m looking to collaborate on making web applications.
 - 🤔 I’m looking for help with backend development.
 - 💬 Ask me about books, best resources for learning Computer Science, research roadmap.
