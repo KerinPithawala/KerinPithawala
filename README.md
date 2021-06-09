@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on research. 
+- 🔭 I’m currently working on Developing Applications for Geophysical data processing. 
 - 🌱 I’m currently learning about Cloud Computing.
 - 👯 I’m looking to collaborate on making web applications.
 - 🤔 I’m looking for help with backend development.
