@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on machine learning. 
+- 🔭 I’m currently working on cloud computing. 
 - 🌱 I’m currently working on [my blog](https://kerinpithawala.github.io/Blog/).
 - 👯 I’m looking to collaborate on making web applications.
 - 🤔 I’m looking for help with backend development.
