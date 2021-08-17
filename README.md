@@ -11,6 +11,6 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
             
-![Skyline](https://github.com/KerinPithawala/KerinPithawala/blob/master/github-metrics.svg)
+
 
 
