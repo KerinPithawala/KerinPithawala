@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
             
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KerinPithawala.KerinPithawala)
 
