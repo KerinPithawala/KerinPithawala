@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-
-
-- 🔭 I’m currently learning Flask. 
-- 👯 I’m looking to collaborate on making web applications.
-- 💬 Ask me about books, best resources for learning Computer Science and doing research .
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kerinpithawala/).
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I am a memer. And I love to collect postal stamps of countries around the world.
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
